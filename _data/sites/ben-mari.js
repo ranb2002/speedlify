@@ -1,5 +1,5 @@
 module.exports = {
-	name: "Ben & Mari's Websites", // optional, falls back to object key
+	name: "Ben & Mari", // optional, falls back to object key
 	description: "Websites of Benjamin Rancourt and Mariane Maynard",
 	options: {
 		frequency: 60 * 23, // 23 hours
